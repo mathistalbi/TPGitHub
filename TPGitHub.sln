@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPGitHub", "TPGitHub\TPGitHub.csproj", "{D84D3E90-D885-412A-99F5-8EC660308A58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetierGit", "MetierGit\MetierGit.csproj", "{0605DBBE-7FD3-4F74-9B59-F04D0F6B18A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D84D3E90-D885-412A-99F5-8EC660308A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D84D3E90-D885-412A-99F5-8EC660308A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D84D3E90-D885-412A-99F5-8EC660308A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0605DBBE-7FD3-4F74-9B59-F04D0F6B18A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0605DBBE-7FD3-4F74-9B59-F04D0F6B18A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0605DBBE-7FD3-4F74-9B59-F04D0F6B18A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0605DBBE-7FD3-4F74-9B59-F04D0F6B18A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
